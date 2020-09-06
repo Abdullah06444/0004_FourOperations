@@ -3,7 +3,7 @@ print("Hello Hello! Mr/Ms ",user,", welcome to the python service. :D")
 
 number1 = float(input("Enter 1st number : "))
 ''' TypeCasting, input komutuyla sayiyi girdigimizde string olarak algilamasin diye float oldugunu belirtmek zorundayiz '''
-print("Type of Number1 : ",type(number1))
+#print("Type of Number1 : ",type(number1))
 
 number2 = float(input("Enter 2nd number : "))
 
